@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>BetterCrates</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>netcoreapp7.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>12.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\AppData\Roaming\VintageStory\VS120-p13\Vintagestory\Lib\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="VintagestoryAPI">
+      <HintPath>..\..\..\AppData\Roaming\VintageStory\VS120-p13\Vintagestory\VintagestoryAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="VSSurvivalMod">
+      <HintPath>..\..\..\AppData\Roaming\VintageStory\VS120-p13\Vintagestory\Mods\VSSurvivalMod.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
