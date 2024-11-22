@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "bettercrates",
+  "name": "Better Crates Patch",
+  "authors": [ "Elocrypt", "Dauron" ],
+  "description": "Adds a new type of storage to the game.",
+  "version": "1.7.2",
+  "dependency": {
+    "game": "1.20.0-pre.13"
+  }
+}
