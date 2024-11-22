@@ -1,0 +1,14 @@
+[
+	{
+		"type": "CopyReplaceIngredients",   
+		"dependsOn": [{ "modid": "vanvar" }],   
+		"outputCode": "bettercrate-wood-center-east",
+		"ingredients": [{ "ingredientCode": "game:chest-east", "Code": "vanvar:chest-east*", "Name": "C" }]
+	},
+	{
+		"type": "CopyReplaceIngredients",   
+		"dependsOn": [{ "modid": "vanvar" }],   
+		"outputCode": "bettercrate-wood-center-east",
+		"ingredients": [{ "ingredientCode": "game:labeledchest-east", "Code": "vanvar:labeledchest-east*", "Name": "C" }]
+	}
+]

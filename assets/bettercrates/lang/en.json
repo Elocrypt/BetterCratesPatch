@@ -1,0 +1,71 @@
+{
+  "block-bettercrate-wood*": "Better Crate",
+  "blockdesc-bettercrate-wood*": "Can hold up to 32 stacks of the same item type.\r\nCannot hold perishable or hot items.",
+
+  "block-bettercrate-copper*": "Better Crate (Copper)",
+  "blockdesc-bettercrate-copper*": "Can hold up to 64 stacks of the same item type.\r\nCannot hold perishable or hot items.",
+
+  "block-bettercrate-bronze*": "Better Crate (Bronze)",
+  "blockdesc-bettercrate-bronze*": "Can hold up to 128 stacks of the same item type.\r\nCannot hold perishable or hot items.",
+
+  "block-bettercrate-iron*": "Better Crate (Iron)",
+  "blockdesc-bettercrate-iron*": "Can hold up to 256 stacks of the same item type.\r\nCannot hold perishable or hot items.",
+
+  "block-bettercrate-steel*": "Better Crate (Steel)",
+  "blockdesc-bettercrate-steel*": "Can hold up to 512 stacks of the same item type.\r\nCannot hold perishable or hot items.",
+
+  "block-bettercrate2sided-wood*": "Two-Sided Better Crate",
+  "blockdesc-bettercrate2sided-wood*": "Can hold up to 32 stacks of the same item type.\r\nCannot hold perishable or hot items.",
+
+  "block-bettercrate2sided-copper*": "Two-Sided Better Crate (Copper)",
+  "blockdesc-bettercrate2sided-copper*": "Can hold up to 64 stacks of the same item type.\r\nCannot hold perishable or hot items.",
+
+  "block-bettercrate2sided-bronze*": "Two-Sided Better Crate (Bronze)",
+  "blockdesc-bettercrate2sided-bronze*": "Can hold up to 128 stacks of the same item type.\r\nCannot hold perishable or hot items.",
+
+  "block-bettercrate2sided-iron*": "Two-Sided Better Crate (Iron)",
+  "blockdesc-bettercrate2sided-iron*": "Can hold up to 256 stacks of the same item type.\r\nCannot hold perishable or hot items.",
+
+  "block-bettercrate2sided-steel*": "Two-Sided Better Crate (Steel)",
+  "blockdesc-bettercrate2sided-steel*": "Can hold up to 512 stacks of the same item type.\r\nCannot hold perishable or hot items.",
+
+  "block-handbooktext-*bettercrate-wood*": "<strong>Upgrades to</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-copper-center-east'>Better Crate (Copper)</a> by using a <a href='handbook://item-bettercrates:upgrade-copper'>Better Crate Upgrade (Copper)</a>.\r\n\r\n<strong>How to use</strong> \r\n<strong>Left mouse click:</strong> Take out a single item.\r\n<strong>Sneak + Left mouse click:</strong> Take out a stack of item.\r\n<strong>Right mouse click:</strong> Put in a new or matching stack.\r\n<strong>Hold Right mouse:</strong> Put in all matching stacks from player's inventory.\r\n<strong>Sprint + Right mouse click + bare hand:</strong> Lock/unlock item type.",
+  "block-handbooktext-*bettercrate-copper*": "<strong>Upgraded from</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-wood-center-east'>Better Crate</a> by using a <a href='handbook://item-bettercrates:upgrade-copper'>Better Crate Upgrade (Copper)</a>.\r\n\r\n<strong>Upgrades to</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-bronze-center-east'>Better Crate (Bronze)</a> by using a <a href='handbook://item-bettercrates:upgrade-bronze'>Better Crate Upgrade (Bronze)</a>.\r\n\r\n<strong>How to use</strong> \r\n<strong>Left mouse click:</strong> Take out a single item.\r\n<strong>Sneak + Left mouse click:</strong> Take out a stack of item.\r\n<strong>Right mouse click:</strong> Put in a new or matching stack.\r\n<strong>Hold Right mouse:</strong> Put in all matching stacks from player's inventory.\r\n<strong>Sprint + Right mouse click + bare hand:</strong> Lock/unlock item type.",
+  "block-handbooktext-*bettercrate-bronze*": "<strong>Upgraded from</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-copper-center-east'>Better Crate (Copper)</a> by using a <a href='handbook://item-bettercrates:upgrade-bronze'>Better Crate Upgrade (Bronze)</a>.\r\n\r\n<strong>Upgrades to</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-iron-center-east'>Better Crate (Iron)</a> by using a <a href='handbook://item-bettercrates:upgrade-iron'>Better Crate Upgrade (Iron)</a>.\r\n\r\n<strong>How to use</strong> \r\n<strong>Left mouse click:</strong> Take out a single item.\r\n<strong>Sneak + Left mouse click:</strong> Take out a stack of item.\r\n<strong>Right mouse click:</strong> Put in a new or matching stack.\r\n<strong>Hold Right mouse:</strong> Put in all matching stacks from player's inventory.\r\n<strong>Sprint + Right mouse click + bare hand:</strong> Lock/unlock item type.",
+  "block-handbooktext-*bettercrate-iron*": "<strong>Upgraded from</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-bronze-center-east'>Better Crate (Bronze)</a> by using a <a href='handbook://item-bettercrates:upgrade-iron'>Better Crate Upgrade (Iron)</a>.\r\n\r\n<strong>Upgrades to</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-steel-center-east'>Better Crate (Steel)</a> by using a <a href='handbook://item-bettercrates:upgrade-steel'>Better Crate Upgrade (Steel)</a>.\r\n\r\n<strong>How to use</strong> \r\n<strong>Left mouse click:</strong> Take out a single item.\r\n<strong>Sneak + Left mouse click:</strong> Take out a stack of item.\r\n<strong>Right mouse click:</strong> Put in a new or matching stack.\r\n<strong>Hold Right mouse:</strong> Put in all matching stacks from player's inventory.\r\n<strong>Sprint + Right mouse click + bare hand:</strong> Lock/unlock item type.",
+  "block-handbooktext-*bettercrate-steel*": "<strong>Upgraded from</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-iron-center-east'>Better Crate (Iron)</a> by using a <a href='handbook://item-bettercrates:upgrade-steel'>Better Crate Upgrade (Steel)</a>.\r\n\r\n<strong>How to use</strong> \r\n<strong>Left mouse click:</strong> Take out a single item.\r\n<strong>Sneak + Left mouse click:</strong> Take out a stack of item.\r\n<strong>Right mouse click:</strong> Put in a new or matching stack.\r\n<strong>Hold Right mouse:</strong> Put in all matching stacks from player's inventory.\r\n<strong>Sprint + Right mouse click + bare hand:</strong> Lock/unlock item type.",
+
+  "block-handbooktext-*bettercrate2sided-wood*": "<strong>Upgrades to</strong>\r\n<a href='handbook://block-bettercrates:bettercrate2sided-copper-center-east'>Two-Sided Better Crate (Copper)</a> by using a <a href='handbook://item-bettercrates:upgrade-copper'>Better Crate Upgrade (Copper)</a>.\r\n\r\n<strong>How to use</strong> \r\n<strong>Left mouse click:</strong> Take out a single item.\r\n<strong>Sneak + Left mouse click:</strong> Take out a stack of item.\r\n<strong>Right mouse click:</strong> Put in a new or matching stack.\r\n<strong>Hold Right mouse:</strong> Put in all matching stacks from player's inventory.\r\n<strong>Sprint + Right mouse click + bare hand:</strong> Lock/unlock item type.",
+  "block-handbooktext-*bettercrate2sided-copper*": "<strong>Upgraded from</strong>\r\n<a href='handbook://block-bettercrates:bettercrate2sided-wood-center-east'>Two-Sided Better Crate</a> by using a <a href='handbook://item-bettercrates:upgrade-copper'>Better Crate Upgrade (Copper)</a>.\r\n\r\n<strong>Upgrades to</strong>\r\n<a href='handbook://block-bettercrates:bettercrate2sided-bronze-center-east'>Two-Sided Better Crate (Bronze)</a> by using a <a href='handbook://item-bettercrates:upgrade-bronze'>Better Crate Upgrade (Bronze)</a>.\r\n\r\n<strong>How to use</strong> \r\n<strong>Left mouse click:</strong> Take out a single item.\r\n<strong>Sneak + Left mouse click:</strong> Take out a stack of item.\r\n<strong>Right mouse click:</strong> Put in a new or matching stack.\r\n<strong>Hold Right mouse:</strong> Put in all matching stacks from player's inventory.\r\n<strong>Sprint + Right mouse click + bare hand:</strong> Lock/unlock item type.",
+  "block-handbooktext-*bettercrate2sided-bronze*": "<strong>Upgraded from</strong>\r\n<a href='handbook://block-bettercrates:bettercrate2sided-copper-center-east'>Two-Sided Better Crate (Copper)</a> by using a <a href='handbook://item-bettercrates:upgrade-bronze'>Better Crate Upgrade (Bronze)</a>.\r\n\r\n<strong>Upgrades to</strong>\r\n<a href='handbook://block-bettercrates:bettercrate2sided-iron-center-east'>Two-Sided Better Crate (Iron)</a> by using a <a href='handbook://item-bettercrates:upgrade-iron'>Better Crate Upgrade (Iron)</a>.\r\n\r\n<strong>How to use</strong> \r\n<strong>Left mouse click:</strong> Take out a single item.\r\n<strong>Sneak + Left mouse click:</strong> Take out a stack of item.\r\n<strong>Right mouse click:</strong> Put in a new or matching stack.\r\n<strong>Hold Right mouse:</strong> Put in all matching stacks from player's inventory.\r\n<strong>Sprint + Right mouse click + bare hand:</strong> Lock/unlock item type.",
+  "block-handbooktext-*bettercrate2sided-iron*": "<strong>Upgraded from</strong>\r\n<a href='handbook://block-bettercrates:bettercrate2sided-bronze-center-east'>Two-Sided Better Crate (Bronze)</a> by using a <a href='handbook://item-bettercrates:upgrade-iron'>Better Crate Upgrade (Iron)</a>.\r\n\r\n<strong>Upgrades to</strong>\r\n<a href='handbook://block-bettercrates:bettercrate2sided-steel-center-east'>Two-Sided Better Crate (Steel)</a> by using a <a href='handbook://item-bettercrates:upgrade-steel'>Better Crate Upgrade (Steel)</a>.\r\n\r\n<strong>How to use</strong> \r\n<strong>Left mouse click:</strong> Take out a single item.\r\n<strong>Sneak + Left mouse click:</strong> Take out a stack of item.\r\n<strong>Right mouse click:</strong> Put in a new or matching stack.\r\n<strong>Hold Right mouse:</strong> Put in all matching stacks from player's inventory.\r\n<strong>Sprint + Right mouse click + bare hand:</strong> Lock/unlock item type.",
+  "block-handbooktext-*bettercrate2sided-steel*": "<strong>Upgraded from</strong>\r\n<a href='handbook://block-bettercrates:bettercrate2sided-iron-center-east'>Two-Sided Better Crate (Iron)</a> by using a <a href='handbook://item-bettercrates:upgrade-steel'>Better Crate Upgrade (Steel)</a>.\r\n\r\n<strong>How to use</strong> \r\n<strong>Left mouse click:</strong> Take out a single item.\r\n<strong>Sneak + Left mouse click:</strong> Take out a stack of item.\r\n<strong>Right mouse click:</strong> Put in a new or matching stack.\r\n<strong>Hold Right mouse:</strong> Put in all matching stacks from player's inventory.\r\n<strong>Sprint + Right mouse click + bare hand:</strong> Lock/unlock item type.",
+
+  "blockhelp-bettercrate-take": "Take",
+  "blockhelp-bettercrate-takestack": "Take stack",
+  "blockhelp-bettercrate-putstack": "Put stack",
+  "blockhelp-bettercrate-putmatchingstack": "Put matching stack",
+  "blockhelp-bettercrate-lock": "Lock item type",
+  "blockhelp-bettercrate-unlock": "Unlock item type",
+
+  "item-upgrade-copper": "Better Crate Upgrade (Copper)",
+  "itemdesc-upgrade-copper": "Upgrades a Better Crate to Better Crate (Copper).",
+  "item-handbooktext-*upgrade-copper*": "<strong>Uses</strong>\r\nUpgrades a <a href='handbook://block-bettercrates:bettercrate-wood-center-east'>Better Crate</a> to <a href='handbook://block-bettercrates:bettercrate-copper-center-east'>Better Crate (Copper)</a>.\r\n\r\n<strong>How to use</strong>\r\n<strong>Sneak + Right mouse click</strong> on <a href='handbook://block-bettercrates:bettercrate-wood-center-east'>Better Crate</a>.",
+
+  "item-upgrade-bronze": "Better Crate Upgrade (Bronze)",
+  "itemdesc-upgrade-bronze": "Upgrades a Better Crate (Copper) to Better Crate (Bronze).",
+  "item-handbooktext-*upgrade-bronze*": "<strong>Uses</strong>\r\nUpgrades a <a href='handbook://block-bettercrates:bettercrate-copper-center-east'>Better Crate (Copper)</a> to <a href='handbook://block-bettercrates:bettercrate-bronze-center-east'>Better Crate (Bronze)</a>.\r\n\r\n<strong>How to use</strong>\r\n<strong>Sneak + Right mouse click</strong> on <a href='handbook://block-bettercrates:bettercrate-copper-center-east'>Better Crate (Copper)</a>.",
+
+  "item-upgrade-iron": "Better Crate Upgrade (Iron)",
+  "itemdesc-upgrade-iron": "Upgrades a Better Crate (Bronze) to Better Crate (Iron).",
+  "item-handbooktext-*upgrade-iron*": "<strong>Uses</strong>\r\nUpgrades a <a href='handbook://block-bettercrates:bettercrate-bronze-center-east'>Better Crate (Bronze)</a> to <a href='handbook://block-bettercrates:bettercrate-iron-center-east'>Better Crate (Iron)</a>.\r\n\r\n<strong>How to use</strong>\r\n<strong>Sneak + Right mouse click</strong> on <a href='handbook://block-bettercrates:bettercrate-bronze-center-east'>Better Crate (Bronze)</a>.",
+
+  "item-upgrade-steel": "Better Crate Upgrade (Steel)",
+  "itemdesc-upgrade-steel": "Upgrades a Better Crate (Iron) to Better Crate (Steel).",
+  "item-handbooktext-*upgrade-steel*": "<strong>Uses</strong>\r\nUpgrades a <a href='handbook://block-bettercrates:bettercrate-iron-center-east'>Better Crate (Iron)</a> to <a href='handbook://block-bettercrates:bettercrate-steel-center-east'>Better Crate (Steel)</a>.\r\n\r\n<strong>How to use</strong>\r\n<strong>Sneak + Right mouse click</strong> on <a href='handbook://block-bettercrates:bettercrate-iron-center-east'>Better Crate (Iron)</a>.",
+
+  "item-toohot": "Cannot put hot items in this.",
+  "item-perishable": "Cannot put perishables in this.",
+  "item-filledcontainer": "Cannot put filled containers in this."
+
+}

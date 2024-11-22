@@ -1,0 +1,60 @@
+{
+  "block-bettercrate-wood*": "Улучшенный ящик",
+  "blockdesc-bettercrate-wood*": "Может хранить до 32 стаков предметов одного типа.\r\nНе может хранить скоропортящиеся или горячие предметы.",
+
+  "block-bettercrate-copper*": "Улучшенный ящик (Медь)",
+  "blockdesc-bettercrate-copper*": "Может хранить до 64 стаков предметов одного типа.\r\nНе может хранить скоропортящиеся или горячие предметы.",
+
+  "block-bettercrate-bronze*": "Улучшенный ящик (Бронза)",
+  "blockdesc-bettercrate-bronze*": "Может хранить до 128 стаков предметов одного типа.\r\nНе может хранить скоропортящиеся или горячие предметы.",
+
+  "block-bettercrate-iron*": "Улучшенный ящик (Железо)",
+  "blockdesc-bettercrate-iron*": "Может хранить до 256 стаков предметов одного типа.\r\nНе может хранить скоропортящиеся или горячие предметы.",
+
+  "block-bettercrate-steel*": "Улучшенный ящик (стальной)",
+  "blockdesc-bettercrate-steel*": "Может хранить до 512 стаков предметов одного типа.\r\nНе может хранить скоропортящиеся или горячие предметы.",
+
+  "block-bettercrate2sided-wood*": "Двусторонний Улучшенный ящик",
+  "blockdesc-bettercrate2sided-wood*": "Может хранить до 32 стаков предметов одного типа.\r\nНе может хранить скоропортящиеся или горячие предметы.",
+
+  "block-bettercrate2sided-copper*": "Двусторонний Улучшенный ящик (Медь)",
+  "blockdesc-bettercrate2sided-copper*": "Может хранить до 64 стаков предметов одного типа.\r\nНе может хранить скоропортящиеся или горячие предметы.",
+
+  "block-bettercrate2sided-bronze*": "Двусторонний Улучшенный ящик (Бронза)",
+  "blockdesc-bettercrate2sided-bronze*": "Может хранить до 128 стаков предметов одного типа.\r\nНе может хранить скоропортящиеся или горячие предметы.",
+
+  "block-bettercrate2sided-iron*": "Двусторонний Улучшенный ящик (Железо)",
+  "blockdesc-bettercrate2sided-iron*": "Может хранить до 256 стаков предметов одного типа.\r\nНе может хранить скоропортящиеся или горячие предметы.",
+
+  "block-bettercrate2sided-steel*": "Двусторонний Улучшенный ящик (стальной)",
+  "blockdesc-bettercrate2sided-steel*": "Может хранить до 512 стаков предметов одного типа.\r\nНе может хранить скоропортящиеся или горячие предметы.",
+
+  "block-handbooktext-*bettercrate-wood*": "<strong>Улучшается до</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-copper-center-east'>Улучшенный ящик (Медь)</a> при использовании <a href='handbook://item-bettercrates:upgrade-copper'>Улучшение для ящика (Медь)</a>.\r\n\r\n<strong>Как использовать</strong> \r\n<strong>Левая кнопка мыши:</strong> Взять один предмет.\r\n<strong>Пригнуться + Левая кнопка мыши:</strong> Взять стак предметов.\r\n<strong>Правая кнопка мыши:</strong> Положить новый или подходящий стак в ящик.\r\n<strong>Удерживать правую кнопку мыши:</strong> Положить все подходящие стаки из инвентаря игрока.\r\n<strong>Бежать + Правая кнопка мыши + Пустая рука:</strong> Заблокировать/разблокировать тип предмета.",
+  "block-handbooktext-*bettercrate-copper*": "<strong>Upgraded from</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-wood-center-east'>Улучшенный ящик</a> при использовании <a href='handbook://item-bettercrates:upgrade-copper'>Улучшение для ящика (Медь)</a>.\r\n\r\n<strong>Улучшается до</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-bronze-center-east'>Улучшенный ящик (Бронза)</a> при использовании <a href='handbook://item-bettercrates:upgrade-bronze'>Улучшение для ящика (Бронза)</a>.\r\n\r\n<strong>Как использовать</strong> \r\n<strong>Левая кнопка мыши:</strong> Взять один предмет.\r\n<strong>Пригнуться + Левая кнопка мыши:</strong> Взять стак предметов.\r\n<strong>Правая кнопка мыши:</strong> Положить новый или подходящий стак в ящик.\r\n<strong>Удерживать правую кнопку мыши:</strong> Положить все подходящие стаки из инвентаря игрока.\r\n<strong>Бежать + Правая кнопка мыши + Пустая рука:</strong> Заблокировать/разблокировать тип предмета.",
+  "block-handbooktext-*bettercrate-bronze*": "<strong>Upgraded from</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-copper-center-east'>Улучшенный ящик (Медь)</a> при использовании <a href='handbook://item-bettercrates:upgrade-bronze'>Улучшение для ящика (Бронза)</a>.\r\n\r\n<strong>Улучшается до</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-iron-center-east'>Улучшенный ящик (Железо)</a> при использовании <a href='handbook://item-bettercrates:upgrade-iron'>Улучшение для ящика (Железо)</a>.\r\n\r\n<strong>Как использовать</strong> \r\n<strong>Левая кнопка мыши:</strong> Взять один предмет.\r\n<strong>Пригнуться + Левая кнопка мыши:</strong> Взять стак предметов.\r\n<strong>Правая кнопка мыши:</strong> Положить новый или подходящий стак в ящик.\r\n<strong>Удерживать правую кнопку мыши:</strong> Положить все подходящие стаки из инвентаря игрока.\r\n<strong>Бежать + Правая кнопка мыши + Пустая рука:</strong> Заблокировать/разблокировать тип предмета.",
+  "block-handbooktext-*bettercrate-iron*": "<strong>Upgraded from</strong>\r\n<a href='handbook://block-bettercrates:bettercrate-bronze-center-east'>Улучшенный ящик (Бронза)</a> при использовании <a href='handbook://item-bettercrates:upgrade-iron'>Улучшение для ящика (Железо)</a>.\r\n\r\n<strong>Как использовать</strong> \r\n<strong>Левая кнопка мыши:</strong> Взять один предмет.\r\n<strong>Пригнуться + Левая кнопка мыши:</strong> Взять стак предметов.\r\n<strong>Правая кнопка мыши:</strong> Положить новый или подходящий стак в ящик.\r\n<strong>Удерживать правую кнопку мыши:</strong> Положить все подходящие стаки из инвентаря игрока.\r\n<strong>Бежать + Правая кнопка мыши + Пустая рука:</strong> Заблокировать/разблокировать тип предмета.",
+
+  "blockhelp-bettercrate-take": "Взять",
+  "blockhelp-bettercrate-takestack": "Взять стак",
+  "blockhelp-bettercrate-putstack": "Положить стак",
+  "blockhelp-bettercrate-putmatchingstack": "Положить подходящий стак",
+  "blockhelp-bettercrate-lock": "Заблокировать",
+  "blockhelp-bettercrate-unlock": "Разблокировать",
+
+  "item-upgrade-copper": "Улучшение для ящика (Медь)",
+  "itemdesc-upgrade-copper": "Улучшает Улучшенный ящик до Улучшенный ящик (Медь).",
+  "item-handbooktext-*upgrade-copper*": "<strong>Использование</strong>\r\nУлучшает <a href='handbook://block-bettercrates:bettercrate-wood-center-east'>Улучшенный ящик</a> до <a href='handbook://block-bettercrates:bettercrate-copper-center-east'>Улучшенный ящик (Медь)</a>.\r\n\r\n<strong>Как использовать</strong>\r\n<strong>Пригнуться + Правая кнопка мыши</strong> на <a href='handbook://block-bettercrates:bettercrate-wood-center-east'>Улучшенный ящик</a>.",
+
+  "item-upgrade-bronze": "Улучшение для ящика (Бронза)",
+  "itemdesc-upgrade-bronze": "Улучшает Улучшенный ящик (Медь) до Улучшенный ящик (Бронза).",
+  "item-handbooktext-*upgrade-bronze*": "<strong>Использование</strong>\r\nУлучшает <a href='handbook://block-bettercrates:bettercrate-copper-center-east'>Улучшенный ящик (Медь)</a> до <a href='handbook://block-bettercrates:bettercrate-bronze-center-east'>Улучшенный ящик (Бронза)</a>.\r\n\r\n<strong>Как использовать</strong>\r\n<strong>Пригнуться + Правая кнопка мыши</strong> на <a href='handbook://block-bettercrates:bettercrate-copper-center-east'>Улучшенный ящик (Медь)</a>.",
+
+  "item-upgrade-iron": "Улучшение для ящика (Железо)",
+  "itemdesc-upgrade-iron": "Улучшает Улучшенный ящик (Бронза) до Улучшенный ящик (Железо).",
+  "item-handbooktext-*upgrade-iron*": "<strong>Использование</strong>\r\nУлучшает <a href='handbook://block-bettercrates:bettercrate-bronze-center-east'>Улучшенный ящик (Бронза)</a> до <a href='handbook://block-bettercrates:bettercrate-iron-center-east'>Улучшенный ящик (Железо)</a>.\r\n\r\n<strong>Как использовать</strong>\r\n<strong>Пригнуться + Правая кнопка мыши</strong> на <a href='handbook://block-bettercrates:bettercrate-bronze-center-east'>Улучшенный ящик (Бронза)</a>.",
+
+  "item-toohot": "В это нельзя положить горячие предметы.",
+  "item-perishable": "В это нельзя положить скоропортящееся.",
+  "item-filledcontainer": "Заполненные емкости здесь размещать нельзя."
+
+}

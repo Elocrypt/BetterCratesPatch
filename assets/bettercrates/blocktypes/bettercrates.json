@@ -1,0 +1,181 @@
+{
+  "code": "bettercrate",
+  "class": "BBetterCrate",
+  "entityclass": "BEBetterCrate",
+  "attributes": {
+    "canChisel": false,
+    "quantitySlots": {
+      "wood": 32,
+      "copper": 64,
+      "bronze": 128,
+      "iron": 256,
+      "steel": 512
+    }
+  },
+
+  "behaviors": [
+    { "name": "Lockable" }   
+  ],
+
+  "variantgroups": [
+    {
+      "code": "type",
+      "states": [ "wood", "copper", "bronze", "iron", "steel" ]
+    },
+    {
+      "code": "verticalorientation",
+      "states": [ "up", "center", "down" ]
+    },
+    { "loadFromProperties": "abstract/horizontalorientation" }
+  ],
+
+  "shapebytype": {
+    "*center-north": {
+      "base": "game:block/basic/cube",
+      "rotateY": 0
+    },
+    "*center-west": {
+      "base": "game:block/basic/cube",
+      "rotateY": 90
+    },
+    "*center-south": {
+      "base": "game:block/basic/cube",
+      "rotateY": 180
+    },
+    "*center-east": {
+      "base": "game:block/basic/cube",
+      "rotateY": 270
+    },
+    "*up-north": {
+      "base": "game:block/basic/cube",
+      "rotateX": 270,
+      "rotateY": 0
+    },
+    "*up-west": {
+      "base": "game:block/basic/cube",
+      "rotateX": 270,
+      "rotateZ": 90
+    },
+    "*up-south": {
+      "base": "game:block/basic/cube",
+      "rotateX": 90,
+      "rotateY": 180
+    },
+    "*up-east": {
+      "base": "game:block/basic/cube",
+      "rotateX": 270,
+      "rotateZ": 270
+    },
+    "*down-north": {
+      "base": "game:block/basic/cube",
+      "rotateX": 90,
+      "rotateY": 0
+    },
+    "*down-west": {
+      "base": "game:block/basic/cube",
+      "rotateX": 90,
+      "rotateZ": 270
+    },
+    "*down-south": {
+      "base": "game:block/basic/cube",
+      "rotateX": 270,
+      "rotateY": 180
+    },
+    "*down-east": {
+      "base": "game:block/basic/cube",
+      "rotateX": 90,
+      "rotateZ": 90
+    }
+  },
+
+  "creativeinventory": {
+    "general": [ "*center-east" ]
+  },
+  "texturesByType": {
+
+    "*wood*": {
+      "all": { "base": "block/crate/wood/crate" },
+      "south": { "base": "block/crate/wood/cratelabel" }
+    },
+    "*copper*": {
+      "all": { "base": "block/crate/copper/crate" },
+      "south": { "base": "block/crate/copper/cratelabel" }
+    },
+    "*bronze*": {
+      "all": { "base": "block/crate/bronze/crate" },
+      "south": { "base": "block/crate/bronze/cratelabel" }
+    },
+    "*iron*": {
+      "all": { "base": "block/crate/iron/crate" },
+      "south": { "base": "block/crate/iron/cratelabel" }
+    },
+    "*steel*": {
+      "all": { "base": "block/crate/steel/crate" },
+      "south": { "base": "block/crate/steel/cratelabel" }
+    }
+  },
+
+  "drops": [ { "code": "bettercrate-{type}-center-east" } ],
+
+  "requiredMiningTier": 1,
+  "blockmaterial": "Wood",
+  "replaceable": 900,
+
+  "resistanceByType": {
+    "*wood*": 3,
+    "*copper*": 4,
+    "*bronze*": 5,
+    "*iron*": 6,
+    "*steel*": 8
+  },
+
+  "sideSolidByType": {
+    "*-up-*": {
+      "all": true,
+      "up": false
+    },
+    "*-down-*": {
+      "all": true,
+      "down": false
+    },
+    "*-center-east": {
+      "all": true,
+      "west": false
+    },
+    "*-center-west": {
+      "all": true,
+      "east": false
+    },
+    "*-center-north": {
+      "all": true,
+      "south": false
+    },
+    "*-center-south": {
+      "all": true,
+      "north": false
+    }
+  },
+
+  "sideopaque": {
+    "all": "true"
+  },
+
+  "sounds": {
+    "place": "game:block/planks",
+    "hit": "game:block/planks",
+    "break": "game:block/planks",
+    "walk": "game:walk/wood"
+  },
+
+  "materialDensity": 600
+}
+
+
+
+
+
+
+
+
+
+
