@@ -2,7 +2,7 @@
 
 is a mod that introduces a new storage block with a new mechanic for [*Vintage Story*][VS]. These "Better Crates" can only store one type of item but they store much more of it than a wooden chest.
 
-![Screenshot](resources/bettercratesbannerpatch.png)
+![Screenshot](recources/bettercratesbannerpatch.png)
 
 [VS]: https://www.vintagestory.at/
 
